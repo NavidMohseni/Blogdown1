@@ -1,2 +1,2 @@
-# Solutions of the Machine Learning with R.
-# Hefin Ioan Rhys - Machine Learning with R, Tidyverse, and Mlr-Manning (2020)
+# Solutions, chapter by chapter, from the Machine Learning with R book. 
+# Hefin Ioan Rhys - Machine Learning with R, Tidyverse, and Mlr (2020)
